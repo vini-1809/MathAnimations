@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lvtar/VSCODE_Python_Manim/Manim/media/videos/manimtest/480p15/partial_movie_files/CreateCircle/1185818338_2419756167_223132457.mp4'

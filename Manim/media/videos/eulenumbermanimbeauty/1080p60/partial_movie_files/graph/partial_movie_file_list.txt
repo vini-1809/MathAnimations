@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lvtar/VSCODE_Python_Scripts/Manim/media/videos/eulenumbermanimbeauty/1080p60/partial_movie_files/graph/3977891868_3640100725_223132457.mp4'
+file 'file:C:/Users/lvtar/VSCODE_Python_Scripts/Manim/media/videos/eulenumbermanimbeauty/1080p60/partial_movie_files/graph/2852726489_1754310298_3071560168.mp4'
+file 'file:C:/Users/lvtar/VSCODE_Python_Scripts/Manim/media/videos/eulenumbermanimbeauty/1080p60/partial_movie_files/graph/2852726489_3432352079_195629099.mp4'
+file 'file:C:/Users/lvtar/VSCODE_Python_Scripts/Manim/media/videos/eulenumbermanimbeauty/1080p60/partial_movie_files/graph/2852726489_2168133002_978882181.mp4'
+file 'file:C:/Users/lvtar/VSCODE_Python_Scripts/Manim/media/videos/eulenumbermanimbeauty/1080p60/partial_movie_files/graph/2852726489_1754310298_548568830.mp4'
